@@ -1,0 +1,29 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "description": "COMP3133 Lab3 Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toubielawbar/Lab03_101331074_COMP3133.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "backend"
+  ],
+  "author": "Oluwatobi H. Giwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toubielawbar/Lab03_101331074_COMP3133/issues"
+  },
+  "homepage": "https://github.com/toubielawbar/Lab03_101331074_COMP3133#readme",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
